@@ -1,0 +1,4 @@
+palabras = ["aire", "auto","casa","anteojos", "peidra", "computadora","television", "teclado", "ojos", "aire", "telefono", "monitor", "casa", 
+"baño", "tarjeta", "billetera", "cerveza", "fernet", "alto", "bajo", "pequeño", "asado", "sombrero", "reloj", "camisa", "peine", "hueso", "caminar",
+ "correr", "saltar", "perro", "gato", "pelota", "caballo", "bicicleta", "auriculares", "vodka", "anillo", "isla", "celular", "silla", "mesa", "camara", "acoplado", "heladera"
+ , "vino", "agua", "mochila", "pelicula", "espejo", "rueda", "purificador", "ventilador", "zapatilla", "pasto", "escritorio", "lavarropa", "jabon", "detergente","cancha", "parlante"]
